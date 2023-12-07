@@ -1,6 +1,6 @@
-# Hello!
+# Hello! 👋
 
-I'm CG Sup and freelance artist, with 10+ years making immersive stuffs. Making cool things with Houdini and Unreal Engine 5. I'm the Project Lead on [Project Pegasus](https://www.sidefx.com/pegasus/) with SideFX and CG Supr at [NSC Creative](https://nsccreative.com/).
+I'm CG Sup and freelance artist with 10+ years making immersive stuffs. Making cool things with Houdini and Unreal Engine 5. I'm the Project Lead on [Project Pegasus](https://www.sidefx.com/pegasus/) with SideFX and CG Supr at [NSC Creative](https://nsccreative.com/).
 
 ## Project Pegasus ✨
 Project Pegasus is an in-house tech demo designed to use Houdini's procedural workflows to create an open-world 3D environment that integrates with the latest technologies in Unreal Engine 5. As this project progresses, the tools and techniques created for this demo will be shared with the community as learning materials and downloadable content. 
@@ -12,7 +12,7 @@ Project Pegasus is an in-house tech demo designed to use Houdini's procedural wo
 - [Project Pegasus | Landscape Creation](https://www.youtube.com/playlist?list=PLXNFA1EysfYnJntGOKfZuMIA-KDz05vUs)
 
 ## Personal Projects 🎨
-- [Artstation](https://www.artstation.com/iansmithartist)
+- [artstation.com/iansmithartist](https://www.artstation.com/iansmithartist)
 - [iansmithartist.com](https://iansmithartist.com/project-pegasus)
 
 ## Social 👨‍🚀
